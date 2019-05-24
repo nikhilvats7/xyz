@@ -1,0 +1,6 @@
+{
+	"log_file": "./backend_log.log",
+	"database": {
+		"url": "mongodb://localhost:27017/trio-mobil"
+	}
+}
