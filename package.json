@@ -11,7 +11,7 @@
     "nodemailer": "^4.7.0",
     "rand-token": "^0.4.0",
     "request": "^2.87.0",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "waterfall": "^1.0.0",
     "winston": "^3.2.1"
   },
